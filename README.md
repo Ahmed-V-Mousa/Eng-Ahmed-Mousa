@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eng-Ahmed-Mousa.
 - 👀 I’m interested in Backend and Blochchain development.
-- 🌱 I’m currently learning Agile React.js
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: eng.ahmedmousa1996@gmail.com
 
 <!---
